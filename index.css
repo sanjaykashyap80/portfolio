@@ -612,8 +612,20 @@ body:not(.user-is-tabbing) a:focus {
 }
 .t1 {
   padding-top: 2%;
-  width: 10%;
+  width: auto;
+  
+   padding: 3%;
   box-shadow: rgba(21, 21, 24, 0.2) 0px 7px 29px 0px;
   text-align: center;
   color: black;
+}
+/* .t1 ~p{
+  text-align: center;
+} */
+.t2 {
+  
+  
+  box-shadow: rgba(21, 21, 24, 0.2) 0px 7px 29px 0px;
+  
+  
 }
