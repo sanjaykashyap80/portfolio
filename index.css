@@ -612,11 +612,11 @@ body:not(.user-is-tabbing) a:focus {
 }
 .t1 {
   padding-top: 2%;
-  width: 35;
+  width: 25%;
   
   padding: 3%;
-   margin-left: 5%;
-   margin-right: 5%;
+   margin-left: 2%;
+   margin-right: 2%;
   box-shadow: rgba(21, 21, 24, 0.2) 0px 7px 29px 0px;
   text-align: center;
   color: black;
